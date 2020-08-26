@@ -20,7 +20,8 @@ Some commands:
 * Leader + q: Quit Neovim.
 * Leader + w: Write file.
 * Ctrl + f: Activate Fuzzy Finder.
-And some git-fugitive and gocode commands as:
+And some git-fugitive commands as:
 * Leader + fgs: Git status.
-* Leader + fgc: 
-* Leader + fga:
+* Leader + fgc: Git commit.
+* Leader + fga: Git add % .
+Including also the commands from gocode. You can see them in https://github.com/nsf/gocode.

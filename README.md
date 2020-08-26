@@ -24,4 +24,5 @@ And some git-fugitive commands as:
 * Leader + fgs: Git status.
 * Leader + fgc: Git commit.
 * Leader + fga: Git add % .
-Including also the commands from gocode. You can see them in https://github.com/nsf/gocode.
+
+Including also the commands from gocode. You can see them in it's documentation: https://github.com/nsf/gocode.
